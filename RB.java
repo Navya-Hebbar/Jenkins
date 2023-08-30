@@ -8,5 +8,6 @@ class RB
 				System.out.println("Keep Smiling Brigther");
 			}
 			System.out.println("Thank you");
+			System.out.println("Bye BYe");
 		}
 }
